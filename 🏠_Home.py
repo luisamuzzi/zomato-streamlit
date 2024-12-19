@@ -71,7 +71,7 @@ st.markdown(
     afiliação com a empresa Zomato.
     ### Contato
     Este dashboard foi feito por Luísa Muzzi. 
-    - [LinkedIn](https://www.linkedin.com/in/lu%C3%ADsamuzzi/)
+    - [LinkedIn](https://www.linkedin.com/in/luisamuzzi/)
     - [GitHub](https://github.com/luisamuzzi)
     - [Portfólio de projetos](https://luisamuzzi.github.io/portfolio_projetos/)
 """)
